@@ -26,7 +26,7 @@ Using provided code refactor to take offline, adding Service Worker, Cache API &
 ## Deployment
 
 Github Repo: https://github.com/SILamble/Unit-18-PWA-Homework-Online-Offline-Budget-Trackers
-Heroku Deployed App: 
+Heroku Deployed App: https://budget-tracker-sil2020.herokuapp.com/
 
 ## Authors
 
