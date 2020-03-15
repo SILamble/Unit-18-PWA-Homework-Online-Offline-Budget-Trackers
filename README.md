@@ -15,9 +15,11 @@ User should be able to:
 
 ## Process
 
-Using provided code refactor to take offline, adding Service Worker, Cache API & webpack plugin:
+Using provided code refactor to take offline, adding Service Worker, web-manifest, Cache API & webpack plugin:
 
 ### Requirements
+
+Web manifest file
 
 ### Screenshots
 
