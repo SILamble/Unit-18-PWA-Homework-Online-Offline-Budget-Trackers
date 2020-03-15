@@ -43,6 +43,8 @@
   </div>
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+  <!-- run db.js first, otherwise when off line index.js will try to use it before it has been read -->
+  <script src="db.js"></script>
   <script src="index.js"></script>
   <script>
     if ("serviceWorker" in navigator) {

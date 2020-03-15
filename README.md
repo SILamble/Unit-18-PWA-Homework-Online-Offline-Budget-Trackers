@@ -15,14 +15,19 @@ User should be able to:
 
 ## Process
 
-Using provided code refactor to take offline, adding Service Worker, web-manifest, Cache API & webpack plugin:
+Using provided code refactor to take offline, adding Service Worker, web-manifest & cache API:
 
 * 1) Add Manifest file. Add link in HTML file header
 * 2) Add service-worker. Add script link in HTML.
+* 3) Add db.js to save to indexedDb, add link to script in HTML (before Index.js link)
+
 
 ### Requirements
 
 Web manifest file
+Service worker js
+NPM Mongoose
+NPm Express
 
 ### Screenshots
 
