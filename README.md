@@ -31,6 +31,14 @@ NPm Express
 
 ### Screenshots
 
+Directory Structure
+![Directory Structure Screen Shot](https://github.com/SILamble/Unit-18-PWA-Homework-Online-Offline-Budget-Trackers/blob/master/public/assets/Capture001.PNG)
+Live App View
+![Live App View Screen Shot](https://github.com/SILamble/Unit-18-PWA-Homework-Online-Offline-Budget-Trackers/blob/master/public/assets/Capture002.PNG)
+WebManifest & Service Worker In Chrome Dev Tools/Applications
+![Chrome Dev Tool Screenshot of Manifest and Service-worker](https://github.com/SILamble/Unit-18-PWA-Homework-Online-Offline-Budget-Trackers/blob/master/public/assets/Capture003.PNG)
+Service Worker In Chrome Dev Tools
+![Chrome Dev Tool Screenshot of Service Worker](https://github.com/SILamble/Unit-18-PWA-Homework-Online-Offline-Budget-Trackers/blob/master/public/assets/Capture004.PNG)
 
 
 ## Deployment
