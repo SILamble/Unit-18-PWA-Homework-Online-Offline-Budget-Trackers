@@ -17,6 +17,9 @@ User should be able to:
 
 Using provided code refactor to take offline, adding Service Worker, web-manifest, Cache API & webpack plugin:
 
+* 1) Add Manifest file. Add link in HTML file header
+* 2) Add service-worker. Add script link in HTML.
+
 ### Requirements
 
 Web manifest file
